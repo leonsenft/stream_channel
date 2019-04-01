@@ -1,3 +1,6 @@
+* Add `MessagePortChannel`, which provides a `StreamChannel` implementation for
+  communicating over a `MessagePort`.
+
 ## 2.0.0
 
 **Breaking changes**
